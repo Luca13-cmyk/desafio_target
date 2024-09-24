@@ -1,4 +1,4 @@
-def pertence_fibonacci(num: int) -> int:
+def pertence_fibonacci(num: int) -> bool:
     """Verifica se um número pertence à sequência de Fibonacci.
 
   Args:
