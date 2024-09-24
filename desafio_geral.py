@@ -1,6 +1,6 @@
 # Desafio 1
 
-def pertence_fibonacci(num):
+def pertence_fibonacci(num: int) -> bool:
     """Verifica se um número pertence à sequência de Fibonacci.
 
     Args:
